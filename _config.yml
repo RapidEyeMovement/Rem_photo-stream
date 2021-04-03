@@ -25,12 +25,12 @@ author:
   email: jrem.stuff@gmail.com #optional
   website: https://rem.photo/
 description: >- # this means to ignore newlines until "baseurl:"
-  Arden Garden of Photos
+  Arden's Garden of Photos
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rem.photo/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rapideyemovemnt
 github_username: RapidEyeMovement
-instagram_username: RapidEyeMovement
+instagram_username: rapideyemovemnt
 
 # Build settings
 plugins:
